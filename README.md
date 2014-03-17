@@ -1,6 +1,6 @@
 This repository is for the code used for assignment 3 of BS32010.
 
-parser.py contains the code used to parse the input file.
+parser.py contains the code used to parse the input file. very kindly provided by Mario and altered and documented by me.
 
 R_plot.txt contains the code that was used in R to plot the graphs from the output file.
 
